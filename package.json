@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "giafred-capacitor-6-barcode-scanner",
   "private": true,
   "scripts": {
     "prepare": "husky",
