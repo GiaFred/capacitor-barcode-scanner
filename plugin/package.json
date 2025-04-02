@@ -1,5 +1,5 @@
 {
-  "name": "giafred/barcode-scanner",
+  "name": "barcode-scanner-giafred",
   "version": "1.0.0",
   "description": "Forked Capacitor 6 plugin using Outsystems Barcode libs",
   "main": "dist/plugin.cjs.js",
